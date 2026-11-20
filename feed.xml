@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mañanas de ciencia</title>
+    <link>https://marco449994.github.io/</link>
+    <description>Cada mañana, ciencia explicada desde cero: física, química y, sobre todo, física cuántica. Lil presenta y cada semana un invitado experto cuenta su historia y explica la ciencia paso a paso, sin dar nada por sabido. Pensado para estudiantes y para cualquiera con curiosidad.</description>
+    <language>es-ES</language>
+    <copyright>© 2026 Lil</copyright>
+    <itunes:author>Lil</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lil</itunes:name>
+      <itunes:email>mlobatoginer@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://marco449994.github.io/cover.jpg"/>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Cuántica desde cero — Episodio 8: La criptografía cuántica y la teleportación: mensajes que delatan al espía</title>
+      <description>Lil y Charles Bennett explican la criptografía cuántica y la teleportación cuántica desde cero: el protocolo BB84 paso a paso, cómo un espía deja una huella del 25 por ciento, y cómo enviar un estado cuántico sin mover el cúbit</description>
+      <pubDate>Fri, 20 Nov 2026 06:12:32 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-93ee5aa7-58d3-4449-ad0a-b569eae51c90.mp3" length="16117093" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-93ee5aa7-58d3-4449-ad0a-b569eae51c90</guid>
+      <itunes:duration>33:34</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 7: La corrección de errores cuántica: proteger un cúbit que no se puede copiar</title>
+      <description>Lil y John Preskill explican la corrección de errores cuántica desde cero: por qué no se puede copiar un cúbit, el código de tres cúbits, el código de Shor de nueve cúbits, el teorema del umbral, el código de superficie y el chip Willow de Google</description>
+      <pubDate>Thu, 19 Nov 2026 06:16:47 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-a9b0da42-3b95-45d7-890e-f7a4442f6198.mp3" length="16404517" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-a9b0da42-3b95-45d7-890e-f7a4442f6198</guid>
+      <itunes:duration>34:10</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 6: La simulación cuántica: diseñar medicinas y materiales nuevos</title>
+      <description>Lil y Alán Aspuru-Guzik explican la simulación cuántica desde cero: por qué la química es el problema perfecto para un ordenador cuántico, el algoritmo VQE, la nitrogenasa y el fertilizante del futuro, y qué falta para diseñar medicinas nuevas</description>
+      <pubDate>Wed, 18 Nov 2026 06:16:51 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-7d3d89b3-149a-4dbc-80b2-9aa21ab29065.mp3" length="13478629" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-7d3d89b3-149a-4dbc-80b2-9aa21ab29065</guid>
+      <itunes:duration>28:04</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 5: Cómo se programa un ordenador cuántico: circuitos, Shor y Grover</title>
+      <description>Lil y Peter Shor explican cómo se programa un ordenador cuántico desde cero: los circuitos y las puertas, Qiskit, el algoritmo de Shor para factorizar paso a paso y el algoritmo de Grover para buscar paso a paso</description>
+      <pubDate>Tue, 17 Nov 2026 06:15:02 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-f33a80bf-b12c-4889-bd12-544d6562b897.mp3" length="13735141" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-f33a80bf-b12c-4889-bd12-544d6562b897</guid>
+      <itunes:duration>28:36</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 4: El cúbit: el ladrillo de la computación cuántica</title>
+      <description>Lil e Ignacio Cirac explican qué es un cúbit desde cero: la esfera de Bloch, las puertas cuánticas, el interferómetro de Mach-Zehnder, los iones atrapados, la corrección de errores y el chip Willow de Google</description>
+      <pubDate>Mon, 16 Nov 2026 06:17:24 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-b0ef5e5e-d2aa-462d-b998-9aad7641feb2.mp3" length="14700133" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-b0ef5e5e-d2aa-462d-b998-9aad7641feb2</guid>
+      <itunes:duration>30:37</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 3: Qué significa medir de verdad</title>
+      <description>Lil y Alex explican qué significa medir en el mundo cuántico: la regla de Born, el colapso de la función de onda, el experimento de Stern y Gerlach, la decoherencia, el efecto Zenón y el problema de la medida</description>
+      <pubDate>Fri, 13 Nov 2026 06:10:40 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-6f589945-ef79-4ccf-a540-9003837a8be9.mp3" length="10168357" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-6f589945-ef79-4ccf-a540-9003837a8be9</guid>
+      <itunes:duration>21:11</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 2: El entrelazamiento: dos partículas, un solo destino</title>
+      <description>Lil y Alex explican el entrelazamiento cuántico desde cero: qué es, el artículo EPR de Einstein, el teorema de Bell, los experimentos que le valieron el Nobel de Física de 2022 y por qué no permite enviar mensajes más rápido que la luz</description>
+      <pubDate>Thu, 12 Nov 2026 06:10:14 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-5cbf8760-528e-4a21-b6bc-00d3c72345c2.mp3" length="10530469" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-5cbf8760-528e-4a21-b6bc-00d3c72345c2</guid>
+      <itunes:duration>21:56</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cuántica desde cero — Episodio 1: La superposición: estar en dos estados a la vez</title>
+      <description>Lil y Alex explican la superposición cuántica desde cero: qué es, el experimento de la doble rendija y por qué es la base de la computación cuántica</description>
+      <pubDate>Wed, 11 Nov 2026 15:18:43 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-c1a73c7d-b1f3-408d-9758-cd64044607eb.mp3" length="1991653" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-c1a73c7d-b1f3-408d-9758-cd64044607eb</guid>
+      <itunes:duration>4:08</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
