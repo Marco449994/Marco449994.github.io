@@ -16,6 +16,17 @@
     <itunes:image href="https://marco449994.github.io/cover.jpg"/>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cuántica desde cero — Episodio 9: Los sensores cuánticos: relojes que miden el tiempo y átomos que pesan la Tierra</title>
+      <description>Lil y Jun Ye explican los sensores cuánticos desde cero: cómo un átomo en superposición mide el mundo, los relojes atómicos ópticos con precisión de una parte en diez elevado a diecinueve, los gravímetros que pesan la Tierra y los magnetómetros de diamante</description>
+      <pubDate>Mon, 23 Nov 2026 06:09:29 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-cd096fd8-badd-4f39-a259-5095a014bc64.mp3" length="11676517" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-cd096fd8-badd-4f39-a259-5095a014bc64</guid>
+      <itunes:duration>24:19</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cuántica desde cero — Episodio 8: La criptografía cuántica y la teleportación: mensajes que delatan al espía</title>
       <description>Lil y Charles Bennett explican la criptografía cuántica y la teleportación cuántica desde cero: el protocolo BB84 paso a paso, cómo un espía deja una huella del 25 por ciento, y cómo enviar un estado cuántico sin mover el cúbit</description>
       <pubDate>Sat, 21 Nov 2026 13:43:53 +0000</pubDate>
