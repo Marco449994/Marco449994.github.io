@@ -16,6 +16,17 @@
     <itunes:image href="https://marco449994.github.io/cover.jpg"/>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cuántica desde cero — Episodio 11: Los enlaces químicos: cómo se unen los átomos</title>
+      <description>Lil y Gilbert N. Lewis explican desde cero cómo se unen los átomos: el enlace iónico, el covalente y el metálico, las moléculas, los puentes de hidrógeno y qué ocurre en una reacción química</description>
+      <pubDate>Wed, 25 Nov 2026 06:15:22 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-bf336754-c392-4fa6-976e-65dd6dc48688.mp3" length="12982974" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-bf336754-c392-4fa6-976e-65dd6dc48688</guid>
+      <itunes:duration>27:00</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cuántica desde cero — Episodio 10: La química desde cero: átomos, elementos y la tabla periódica</title>
       <description>Lil y Dmitri Mendeléyev explican la química desde cero: qué es un elemento, qué es un átomo, cómo se ordenó la tabla periódica y cómo Mendeléyev predijo elementos que aún no se habían descubierto</description>
       <pubDate>Tue, 24 Nov 2026 06:20:36 +0000</pubDate>
