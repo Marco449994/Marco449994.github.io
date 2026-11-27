@@ -16,6 +16,17 @@
     <itunes:image href="https://marco449994.github.io/cover.jpg"/>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Cuántica desde cero — Episodio 13: Los estados de la materia: sólido, líquido, gas y plasma</title>
+      <description>Lil y Anders Celsius explican desde cero los estados de la materia, sólido, líquido, gas y plasma, los cambios de estado, el calor latente y por qué el hielo flota</description>
+      <pubDate>Fri, 27 Nov 2026 06:10:46 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1391022034101035/8873e746-34a8-4041-af57-cbab303996ba/ep-d9e7f6d6-c8c7-4bfd-9c96-4ea2ac152f30.mp3" length="12871422" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep-d9e7f6d6-c8c7-4bfd-9c96-4ea2ac152f30</guid>
+      <itunes:duration>26:46</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cuántica desde cero — Episodio 12: Los ácidos y las bases: qué mide el pH</title>
       <description>Lil y Gilbert N. Lewis explican desde cero qué es un ácido y qué es una base, las definiciones de Arrhenius, Brønsted-Lowry y Lewis, qué mide el pH y cómo funciona la neutralización</description>
       <pubDate>Thu, 26 Nov 2026 17:41:20 +0000</pubDate>
